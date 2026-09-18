@@ -1,0 +1,36 @@
+{
+ "window": {
+  "start": {
+   "row": 0,
+   "column": 1
+  },
+  "end_exclusive": {
+   "row": 10,
+   "column": 4
+  }
+ },
+ "occupied_ranges": [
+  {
+   "start": {
+    "row": 0,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 2,
+    "column": 2
+   }
+  },
+  {
+   "start": {
+    "row": 4,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 10,
+    "column": 4
+   }
+  }
+ ],
+ "merged_ranges": [],
+ "explicit_table_ranges": []
+}

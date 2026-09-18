@@ -1,0 +1,325 @@
+{
+ "contract": "table.packet.v1",
+ "packet_id": "report_total",
+ "target_bounds": [
+  0,
+  1,
+  10,
+  4
+ ],
+ "source": {
+  "bounds": [
+   0,
+   1,
+   10,
+   4
+  ],
+  "date_system": "1900",
+  "merges": [],
+  "cells": [
+   {
+    "coordinate": [
+     0,
+     1
+    ],
+    "cached_value": "Service credit report",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     1
+    ],
+    "cached_value": "Report lines include the Total summary.",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     1
+    ],
+    "cached_value": "Account",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     2
+    ],
+    "cached_value": "Amount",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     3
+    ],
+    "cached_value": "Active",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     1
+    ],
+    "cached_value": "Birch",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     2
+    ],
+    "cached_value": 17,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     3
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     1
+    ],
+    "cached_value": "Elm",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     2
+    ],
+    "cached_value": 30,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     3
+    ],
+    "cached_value": false,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     1
+    ],
+    "cached_value": "Pine",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     2
+    ],
+    "cached_value": 43,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     3
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     1
+    ],
+    "cached_value": "Oak",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     2
+    ],
+    "cached_value": 56,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     3
+    ],
+    "cached_value": false,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     1
+    ],
+    "cached_value": "Total",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     2
+    ],
+    "cached_value": 146,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     3
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   }
+  ]
+ },
+ "family": "report_total",
+ "transformation": null,
+ "split": "format_guard"
+}

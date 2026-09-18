@@ -1,0 +1,147 @@
+{
+ "window": {
+  "start": {
+   "row": 1,
+   "column": 1
+  },
+  "end_exclusive": {
+   "row": 33,
+   "column": 39
+  }
+ },
+ "occupied_ranges": [
+  {
+   "start": {
+    "row": 1,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 3,
+    "column": 2
+   }
+  },
+  {
+   "start": {
+    "row": 5,
+    "column": 2
+   },
+   "end_exclusive": {
+    "row": 6,
+    "column": 3
+   }
+  },
+  {
+   "start": {
+    "row": 5,
+    "column": 38
+   },
+   "end_exclusive": {
+    "row": 6,
+    "column": 39
+   }
+  },
+  {
+   "start": {
+    "row": 6,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 7,
+    "column": 39
+   }
+  },
+  {
+   "start": {
+    "row": 7,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 8,
+    "column": 2
+   }
+  },
+  {
+   "start": {
+    "row": 8,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 12,
+    "column": 39
+   }
+  },
+  {
+   "start": {
+    "row": 13,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 14,
+    "column": 2
+   }
+  },
+  {
+   "start": {
+    "row": 14,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 18,
+    "column": 39
+   }
+  },
+  {
+   "start": {
+    "row": 19,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 20,
+    "column": 2
+   }
+  },
+  {
+   "start": {
+    "row": 20,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 26,
+    "column": 39
+   }
+  },
+  {
+   "start": {
+    "row": 27,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 28,
+    "column": 39
+   }
+  },
+  {
+   "start": {
+    "row": 30,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 33,
+    "column": 2
+   }
+  }
+ ],
+ "merged_ranges": [
+  {
+   "start": {
+    "row": 5,
+    "column": 2
+   },
+   "end_exclusive": {
+    "row": 6,
+    "column": 38
+   }
+  }
+ ],
+ "explicit_table_ranges": []
+}

@@ -1,0 +1,91 @@
+{
+ "contract": "table.annotation.v1",
+ "packet_id": "transposed_context",
+ "reviewer_id": "gold",
+ "completion": "complete",
+ "human_name": "authored gold",
+ "independent_review": true,
+ "prior_access_to_model_answers_or_gold": true,
+ "evidence_sufficient": true,
+ "tables": [
+  {
+   "table_id": "T1",
+   "source_range": "E2:J4",
+   "record_axis": "columns",
+   "primary_header_ranges": [
+    "E2:E4"
+   ],
+   "record_ranges": [
+    "F2:J4"
+   ],
+   "repeated_header_ranges": [],
+   "reason": "Authored layout: header levels and record bands as generated."
+  }
+ ],
+ "non_record_ranges": [
+  {
+   "source_range": "A2",
+   "role": "title",
+   "reason": "Retained statement; not a header or record."
+  },
+  {
+   "source_range": "B2",
+   "role": "title",
+   "reason": "Retained statement; not a header or record."
+  },
+  {
+   "source_range": "M2",
+   "role": "note",
+   "reason": "Retained statement; not a header or record."
+  }
+ ],
+ "context_statements": [
+  {
+   "evidence_cell": "A2",
+   "exact_excerpt": "Service credit register",
+   "occurrence_index": 0,
+   "retaining_tables": [
+    "T1"
+   ],
+   "role": "title",
+   "applicability": {
+    "state": "resolved",
+    "scope": "table",
+    "source_ranges": []
+   },
+   "reason": "Authored applicability for this statement."
+  },
+  {
+   "evidence_cell": "B2",
+   "exact_excerpt": "Period: January 2025",
+   "occurrence_index": 0,
+   "retaining_tables": [
+    "T1"
+   ],
+   "role": "title",
+   "applicability": {
+    "state": "resolved",
+    "scope": "table",
+    "source_ranges": []
+   },
+   "reason": "Authored applicability for this statement."
+  },
+  {
+   "evidence_cell": "M2",
+   "exact_excerpt": "Amounts exclude emergency callouts.",
+   "occurrence_index": 0,
+   "retaining_tables": [
+    "T1"
+   ],
+   "role": "footnote",
+   "applicability": {
+    "state": "resolved",
+    "scope": "table",
+    "source_ranges": []
+   },
+   "reason": "Authored applicability for this statement."
+  }
+ ],
+ "uncertainties": [],
+ "reasoning": "Generated from the authored fixture definition."
+}

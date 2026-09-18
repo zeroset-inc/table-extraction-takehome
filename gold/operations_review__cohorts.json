@@ -1,0 +1,56 @@
+{
+ "contract": "table.annotation.v1",
+ "packet_id": "operations_review__cohorts",
+ "reviewer_id": "gold",
+ "completion": "complete",
+ "human_name": "authored gold",
+ "independent_review": true,
+ "prior_access_to_model_answers_or_gold": true,
+ "evidence_sufficient": true,
+ "tables": [
+  {
+   "table_id": "T1",
+   "source_range": "B5:AL29",
+   "record_axis": "columns",
+   "primary_header_ranges": [
+    "B5:B29"
+   ],
+   "record_ranges": [
+    "C5:AL29"
+   ],
+   "repeated_header_ranges": [],
+   "reason": "Authored layout: header levels and record bands as generated."
+  }
+ ],
+ "non_record_ranges": [
+  {
+   "source_range": "B32",
+   "role": "note",
+   "reason": "Retained statement; not a header or record."
+  },
+  {
+   "source_range": "B2",
+   "role": "other",
+   "reason": "Populated cell outside every table and statement."
+  }
+ ],
+ "context_statements": [
+  {
+   "evidence_cell": "B32",
+   "exact_excerpt": "Retention is measured on net revenue, not logo count.",
+   "occurrence_index": 0,
+   "retaining_tables": [
+    "T1"
+   ],
+   "role": "definition",
+   "applicability": {
+    "state": "resolved",
+    "scope": "table",
+    "source_ranges": []
+   },
+   "reason": "Authored applicability for this statement."
+  }
+ ],
+ "uncertainties": [],
+ "reasoning": "Generated from the authored fixture definition."
+}

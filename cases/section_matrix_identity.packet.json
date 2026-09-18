@@ -1,0 +1,490 @@
+{
+ "contract": "table.packet.v1",
+ "packet_id": "section_matrix_identity",
+ "target_bounds": [
+  0,
+  1,
+  14,
+  5
+ ],
+ "source": {
+  "bounds": [
+   0,
+   1,
+   14,
+   5
+  ],
+  "date_system": "1900",
+  "merges": [],
+  "cells": [
+   {
+    "coordinate": [
+     0,
+     1
+    ],
+    "cached_value": "Service volume report",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     1
+    ],
+    "cached_value": "Measure",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     2
+    ],
+    "cached_value": "2025",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     3
+    ],
+    "cached_value": "2025",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     4
+    ],
+    "cached_value": "2025",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     1
+    ],
+    "cached_value": "Measure",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     2
+    ],
+    "cached_value": "January",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     3
+    ],
+    "cached_value": "February",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     4
+    ],
+    "cached_value": "March",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     1
+    ],
+    "cached_value": "Regional service activity",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     1
+    ],
+    "cached_value": "Completed",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     2
+    ],
+    "cached_value": 13,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     3
+    ],
+    "cached_value": 17,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     4
+    ],
+    "cached_value": 19,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     1
+    ],
+    "cached_value": "Pending",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     2
+    ],
+    "cached_value": 26,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     3
+    ],
+    "cached_value": 34,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     4
+    ],
+    "cached_value": 38,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     1
+    ],
+    "cached_value": "Cancelled",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     2
+    ],
+    "cached_value": 39,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     3
+    ],
+    "cached_value": 51,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     4
+    ],
+    "cached_value": 57,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     1
+    ],
+    "cached_value": "Other",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     2
+    ],
+    "cached_value": 52,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     3
+    ],
+    "cached_value": 68,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     4
+    ],
+    "cached_value": 76,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     1
+    ],
+    "cached_value": "Total",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     2
+    ],
+    "cached_value": 65,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     3
+    ],
+    "cached_value": 85,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     4
+    ],
+    "cached_value": 95,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     1
+    ],
+    "cached_value": "Totals are reported source records.",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   }
+  ]
+ },
+ "family": "section_matrix",
+ "transformation": "identity",
+ "split": "base"
+}

@@ -1,0 +1,13933 @@
+{
+ "contract": "table.packet.v1",
+ "packet_id": "operations_review__cohorts",
+ "target_bounds": [
+  1,
+  1,
+  32,
+  38
+ ],
+ "workbook": "operations_review.xlsx",
+ "sheet": "Cohorts",
+ "sheet_visibility": "visible",
+ "family": "operations_review",
+ "transformation": null,
+ "split": "workbook",
+ "source": {
+  "bounds": [
+   1,
+   1,
+   32,
+   38
+  ],
+  "date_system": "1900",
+  "merges": [],
+  "cells": [
+   {
+    "coordinate": [
+     1,
+     1
+    ],
+    "cached_value": "Net revenue retention by cohort",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     1
+    ],
+    "cached_value": "Months since start",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     2
+    ],
+    "cached_value": "2022-01",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     3
+    ],
+    "cached_value": "2022-02",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     4
+    ],
+    "cached_value": "2022-03",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     5
+    ],
+    "cached_value": "2022-04",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     6
+    ],
+    "cached_value": "2022-05",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     7
+    ],
+    "cached_value": "2022-06",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     8
+    ],
+    "cached_value": "2022-07",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     9
+    ],
+    "cached_value": "2022-08",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     10
+    ],
+    "cached_value": "2022-09",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     11
+    ],
+    "cached_value": "2022-10",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     12
+    ],
+    "cached_value": "2022-11",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     13
+    ],
+    "cached_value": "2022-12",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     14
+    ],
+    "cached_value": "2023-01",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     15
+    ],
+    "cached_value": "2023-02",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     16
+    ],
+    "cached_value": "2023-03",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     17
+    ],
+    "cached_value": "2023-04",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     18
+    ],
+    "cached_value": "2023-05",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     19
+    ],
+    "cached_value": "2023-06",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     20
+    ],
+    "cached_value": "2023-07",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     21
+    ],
+    "cached_value": "2023-08",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     22
+    ],
+    "cached_value": "2023-09",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     23
+    ],
+    "cached_value": "2023-10",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     24
+    ],
+    "cached_value": "2023-11",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     25
+    ],
+    "cached_value": "2023-12",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     26
+    ],
+    "cached_value": "2024-01",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     27
+    ],
+    "cached_value": "2024-02",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     28
+    ],
+    "cached_value": "2024-03",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     29
+    ],
+    "cached_value": "2024-04",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     30
+    ],
+    "cached_value": "2024-05",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     31
+    ],
+    "cached_value": "2024-06",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     32
+    ],
+    "cached_value": "2024-07",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     33
+    ],
+    "cached_value": "2024-08",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     34
+    ],
+    "cached_value": "2024-09",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     35
+    ],
+    "cached_value": "2024-10",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     36
+    ],
+    "cached_value": "2024-11",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     37
+    ],
+    "cached_value": "2024-12",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     1
+    ],
+    "cached_value": 0,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     2
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     3
+    ],
+    "cached_value": 1.0075,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     4
+    ],
+    "cached_value": 1.0025,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     5
+    ],
+    "cached_value": 1.01,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     6
+    ],
+    "cached_value": 1.005,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     7
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     8
+    ],
+    "cached_value": 1.0075,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     9
+    ],
+    "cached_value": 1.0025,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     10
+    ],
+    "cached_value": 1.01,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     11
+    ],
+    "cached_value": 1.005,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     12
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     13
+    ],
+    "cached_value": 1.0075,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     14
+    ],
+    "cached_value": 1.0025,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     15
+    ],
+    "cached_value": 1.01,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     16
+    ],
+    "cached_value": 1.005,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     17
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     18
+    ],
+    "cached_value": 1.0075,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     19
+    ],
+    "cached_value": 1.0025,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     20
+    ],
+    "cached_value": 1.01,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     21
+    ],
+    "cached_value": 1.005,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     22
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     23
+    ],
+    "cached_value": 1.0075,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     24
+    ],
+    "cached_value": 1.0025,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     25
+    ],
+    "cached_value": 1.01,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     26
+    ],
+    "cached_value": 1.005,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     27
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     28
+    ],
+    "cached_value": 1.0075,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     29
+    ],
+    "cached_value": 1.0025,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     30
+    ],
+    "cached_value": 1.01,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     31
+    ],
+    "cached_value": 1.005,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     32
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     33
+    ],
+    "cached_value": 1.0075,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     34
+    ],
+    "cached_value": 1.0025,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     35
+    ],
+    "cached_value": 1.01,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     36
+    ],
+    "cached_value": 1.005,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     37
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     1
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     2
+    ],
+    "cached_value": 0.9885,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     3
+    ],
+    "cached_value": 0.996,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     4
+    ],
+    "cached_value": 0.991,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     5
+    ],
+    "cached_value": 0.986,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     6
+    ],
+    "cached_value": 0.9935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     7
+    ],
+    "cached_value": 0.9885,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     8
+    ],
+    "cached_value": 0.996,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     9
+    ],
+    "cached_value": 0.991,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     10
+    ],
+    "cached_value": 0.986,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     11
+    ],
+    "cached_value": 0.9935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     12
+    ],
+    "cached_value": 0.9885,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     13
+    ],
+    "cached_value": 0.996,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     14
+    ],
+    "cached_value": 0.991,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     15
+    ],
+    "cached_value": 0.986,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     16
+    ],
+    "cached_value": 0.9935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     17
+    ],
+    "cached_value": 0.9885,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     18
+    ],
+    "cached_value": 0.996,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     19
+    ],
+    "cached_value": 0.991,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     20
+    ],
+    "cached_value": 0.986,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     21
+    ],
+    "cached_value": 0.9935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     22
+    ],
+    "cached_value": 0.9885,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     23
+    ],
+    "cached_value": 0.996,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     24
+    ],
+    "cached_value": 0.991,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     25
+    ],
+    "cached_value": 0.986,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     26
+    ],
+    "cached_value": 0.9935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     27
+    ],
+    "cached_value": 0.9885,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     28
+    ],
+    "cached_value": 0.996,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     29
+    ],
+    "cached_value": 0.991,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     30
+    ],
+    "cached_value": 0.986,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     31
+    ],
+    "cached_value": 0.9935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     32
+    ],
+    "cached_value": 0.9885,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     33
+    ],
+    "cached_value": 0.996,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     34
+    ],
+    "cached_value": 0.991,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     35
+    ],
+    "cached_value": 0.986,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     36
+    ],
+    "cached_value": 0.9935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     37
+    ],
+    "cached_value": 0.9885,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     1
+    ],
+    "cached_value": 2,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     2
+    ],
+    "cached_value": 0.977,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     3
+    ],
+    "cached_value": 0.972,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     4
+    ],
+    "cached_value": 0.9795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     5
+    ],
+    "cached_value": 0.9745,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     6
+    ],
+    "cached_value": 0.982,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     7
+    ],
+    "cached_value": 0.977,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     8
+    ],
+    "cached_value": 0.972,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     9
+    ],
+    "cached_value": 0.9795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     10
+    ],
+    "cached_value": 0.9745,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     11
+    ],
+    "cached_value": 0.982,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     12
+    ],
+    "cached_value": 0.977,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     13
+    ],
+    "cached_value": 0.972,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     14
+    ],
+    "cached_value": 0.9795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     15
+    ],
+    "cached_value": 0.9745,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     16
+    ],
+    "cached_value": 0.982,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     17
+    ],
+    "cached_value": 0.977,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     18
+    ],
+    "cached_value": 0.972,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     19
+    ],
+    "cached_value": 0.9795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     20
+    ],
+    "cached_value": 0.9745,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     21
+    ],
+    "cached_value": 0.982,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     22
+    ],
+    "cached_value": 0.977,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     23
+    ],
+    "cached_value": 0.972,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     24
+    ],
+    "cached_value": 0.9795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     25
+    ],
+    "cached_value": 0.9745,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     26
+    ],
+    "cached_value": 0.982,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     27
+    ],
+    "cached_value": 0.977,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     28
+    ],
+    "cached_value": 0.972,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     29
+    ],
+    "cached_value": 0.9795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     30
+    ],
+    "cached_value": 0.9745,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     31
+    ],
+    "cached_value": 0.982,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     32
+    ],
+    "cached_value": 0.977,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     33
+    ],
+    "cached_value": 0.972,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     34
+    ],
+    "cached_value": 0.9795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     35
+    ],
+    "cached_value": 0.9745,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     36
+    ],
+    "cached_value": 0.982,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     37
+    ],
+    "cached_value": 0.977,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     1
+    ],
+    "cached_value": 3,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     2
+    ],
+    "cached_value": 0.9655,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     3
+    ],
+    "cached_value": 0.9605,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     4
+    ],
+    "cached_value": 0.968,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     5
+    ],
+    "cached_value": 0.963,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     6
+    ],
+    "cached_value": 0.958,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     7
+    ],
+    "cached_value": 0.9655,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     8
+    ],
+    "cached_value": 0.9605,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     9
+    ],
+    "cached_value": 0.968,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     10
+    ],
+    "cached_value": 0.963,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     11
+    ],
+    "cached_value": 0.958,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     12
+    ],
+    "cached_value": 0.9655,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     13
+    ],
+    "cached_value": 0.9605,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     14
+    ],
+    "cached_value": 0.968,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     15
+    ],
+    "cached_value": 0.963,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     16
+    ],
+    "cached_value": 0.958,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     17
+    ],
+    "cached_value": 0.9655,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     18
+    ],
+    "cached_value": 0.9605,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     19
+    ],
+    "cached_value": 0.968,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     20
+    ],
+    "cached_value": 0.963,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     21
+    ],
+    "cached_value": 0.958,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     22
+    ],
+    "cached_value": 0.9655,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     23
+    ],
+    "cached_value": 0.9605,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     24
+    ],
+    "cached_value": 0.968,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     25
+    ],
+    "cached_value": 0.963,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     26
+    ],
+    "cached_value": 0.958,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     27
+    ],
+    "cached_value": 0.9655,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     28
+    ],
+    "cached_value": 0.9605,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     29
+    ],
+    "cached_value": 0.968,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     30
+    ],
+    "cached_value": 0.963,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     31
+    ],
+    "cached_value": 0.958,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     32
+    ],
+    "cached_value": 0.9655,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     33
+    ],
+    "cached_value": 0.9605,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     34
+    ],
+    "cached_value": 0.968,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     35
+    ],
+    "cached_value": 0.963,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     36
+    ],
+    "cached_value": 0.958,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     37
+    ],
+    "cached_value": 0.9655,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     1
+    ],
+    "cached_value": 4,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     2
+    ],
+    "cached_value": 0.954,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     3
+    ],
+    "cached_value": 0.949,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     4
+    ],
+    "cached_value": 0.944,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     5
+    ],
+    "cached_value": 0.9515,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     6
+    ],
+    "cached_value": 0.9465,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     7
+    ],
+    "cached_value": 0.954,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     8
+    ],
+    "cached_value": 0.949,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     9
+    ],
+    "cached_value": 0.944,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     10
+    ],
+    "cached_value": 0.9515,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     11
+    ],
+    "cached_value": 0.9465,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     12
+    ],
+    "cached_value": 0.954,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     13
+    ],
+    "cached_value": 0.949,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     14
+    ],
+    "cached_value": 0.944,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     15
+    ],
+    "cached_value": 0.9515,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     16
+    ],
+    "cached_value": 0.9465,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     17
+    ],
+    "cached_value": 0.954,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     18
+    ],
+    "cached_value": 0.949,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     19
+    ],
+    "cached_value": 0.944,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     20
+    ],
+    "cached_value": 0.9515,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     21
+    ],
+    "cached_value": 0.9465,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     22
+    ],
+    "cached_value": 0.954,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     23
+    ],
+    "cached_value": 0.949,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     24
+    ],
+    "cached_value": 0.944,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     25
+    ],
+    "cached_value": 0.9515,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     26
+    ],
+    "cached_value": 0.9465,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     27
+    ],
+    "cached_value": 0.954,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     28
+    ],
+    "cached_value": 0.949,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     29
+    ],
+    "cached_value": 0.944,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     30
+    ],
+    "cached_value": 0.9515,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     31
+    ],
+    "cached_value": 0.9465,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     32
+    ],
+    "cached_value": 0.954,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     33
+    ],
+    "cached_value": 0.949,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     34
+    ],
+    "cached_value": 0.944,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     35
+    ],
+    "cached_value": 0.9515,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     36
+    ],
+    "cached_value": 0.9465,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     37
+    ],
+    "cached_value": 0.954,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     1
+    ],
+    "cached_value": 5,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     2
+    ],
+    "cached_value": 0.93,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     3
+    ],
+    "cached_value": 0.9375,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     4
+    ],
+    "cached_value": 0.9325,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     5
+    ],
+    "cached_value": 0.94,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     6
+    ],
+    "cached_value": 0.935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     7
+    ],
+    "cached_value": 0.93,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     8
+    ],
+    "cached_value": 0.9375,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     9
+    ],
+    "cached_value": 0.9325,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     10
+    ],
+    "cached_value": 0.94,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     11
+    ],
+    "cached_value": 0.935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     12
+    ],
+    "cached_value": 0.93,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     13
+    ],
+    "cached_value": 0.9375,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     14
+    ],
+    "cached_value": 0.9325,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     15
+    ],
+    "cached_value": 0.94,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     16
+    ],
+    "cached_value": 0.935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     17
+    ],
+    "cached_value": 0.93,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     18
+    ],
+    "cached_value": 0.9375,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     19
+    ],
+    "cached_value": 0.9325,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     20
+    ],
+    "cached_value": 0.94,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     21
+    ],
+    "cached_value": 0.935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     22
+    ],
+    "cached_value": 0.93,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     23
+    ],
+    "cached_value": 0.9375,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     24
+    ],
+    "cached_value": 0.9325,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     25
+    ],
+    "cached_value": 0.94,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     26
+    ],
+    "cached_value": 0.935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     27
+    ],
+    "cached_value": 0.93,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     28
+    ],
+    "cached_value": 0.9375,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     29
+    ],
+    "cached_value": 0.9325,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     30
+    ],
+    "cached_value": 0.94,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     31
+    ],
+    "cached_value": 0.935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     32
+    ],
+    "cached_value": 0.93,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     33
+    ],
+    "cached_value": 0.9375,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     34
+    ],
+    "cached_value": 0.9325,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     35
+    ],
+    "cached_value": 0.94,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     36
+    ],
+    "cached_value": 0.935,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     10,
+     37
+    ],
+    "cached_value": 0.93,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     1
+    ],
+    "cached_value": 6,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     2
+    ],
+    "cached_value": 0.9185,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     3
+    ],
+    "cached_value": 0.926,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     4
+    ],
+    "cached_value": 0.921,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     5
+    ],
+    "cached_value": 0.916,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     6
+    ],
+    "cached_value": 0.9235,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     7
+    ],
+    "cached_value": 0.9185,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     8
+    ],
+    "cached_value": 0.926,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     9
+    ],
+    "cached_value": 0.921,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     10
+    ],
+    "cached_value": 0.916,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     11
+    ],
+    "cached_value": 0.9235,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     12
+    ],
+    "cached_value": 0.9185,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     13
+    ],
+    "cached_value": 0.926,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     14
+    ],
+    "cached_value": 0.921,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     15
+    ],
+    "cached_value": 0.916,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     16
+    ],
+    "cached_value": 0.9235,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     17
+    ],
+    "cached_value": 0.9185,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     18
+    ],
+    "cached_value": 0.926,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     19
+    ],
+    "cached_value": 0.921,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     20
+    ],
+    "cached_value": 0.916,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     21
+    ],
+    "cached_value": 0.9235,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     22
+    ],
+    "cached_value": 0.9185,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     23
+    ],
+    "cached_value": 0.926,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     24
+    ],
+    "cached_value": 0.921,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     25
+    ],
+    "cached_value": 0.916,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     26
+    ],
+    "cached_value": 0.9235,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     27
+    ],
+    "cached_value": 0.9185,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     28
+    ],
+    "cached_value": 0.926,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     29
+    ],
+    "cached_value": 0.921,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     30
+    ],
+    "cached_value": 0.916,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     31
+    ],
+    "cached_value": 0.9235,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     32
+    ],
+    "cached_value": 0.9185,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     33
+    ],
+    "cached_value": 0.926,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     34
+    ],
+    "cached_value": 0.921,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     35
+    ],
+    "cached_value": 0.916,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     36
+    ],
+    "cached_value": 0.9235,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     11,
+     37
+    ],
+    "cached_value": 0.9185,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     1
+    ],
+    "cached_value": 7,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     2
+    ],
+    "cached_value": 0.907,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     3
+    ],
+    "cached_value": 0.902,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     4
+    ],
+    "cached_value": 0.9095,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     5
+    ],
+    "cached_value": 0.9045,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     6
+    ],
+    "cached_value": 0.912,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     7
+    ],
+    "cached_value": 0.907,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     8
+    ],
+    "cached_value": 0.902,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     9
+    ],
+    "cached_value": 0.9095,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     10
+    ],
+    "cached_value": 0.9045,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     11
+    ],
+    "cached_value": 0.912,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     12
+    ],
+    "cached_value": 0.907,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     13
+    ],
+    "cached_value": 0.902,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     14
+    ],
+    "cached_value": 0.9095,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     15
+    ],
+    "cached_value": 0.9045,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     16
+    ],
+    "cached_value": 0.912,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     17
+    ],
+    "cached_value": 0.907,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     18
+    ],
+    "cached_value": 0.902,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     19
+    ],
+    "cached_value": 0.9095,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     20
+    ],
+    "cached_value": 0.9045,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     21
+    ],
+    "cached_value": 0.912,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     22
+    ],
+    "cached_value": 0.907,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     23
+    ],
+    "cached_value": 0.902,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     24
+    ],
+    "cached_value": 0.9095,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     25
+    ],
+    "cached_value": 0.9045,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     26
+    ],
+    "cached_value": 0.912,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     27
+    ],
+    "cached_value": 0.907,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     28
+    ],
+    "cached_value": 0.902,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     29
+    ],
+    "cached_value": 0.9095,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     30
+    ],
+    "cached_value": 0.9045,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     31
+    ],
+    "cached_value": 0.912,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     32
+    ],
+    "cached_value": 0.907,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     33
+    ],
+    "cached_value": 0.902,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     34
+    ],
+    "cached_value": 0.9095,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     35
+    ],
+    "cached_value": 0.9045,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     36
+    ],
+    "cached_value": 0.912,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     37
+    ],
+    "cached_value": 0.907,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     1
+    ],
+    "cached_value": 8,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     2
+    ],
+    "cached_value": 0.8955,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     3
+    ],
+    "cached_value": 0.8905,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     4
+    ],
+    "cached_value": 0.898,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     5
+    ],
+    "cached_value": 0.893,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     6
+    ],
+    "cached_value": 0.888,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     7
+    ],
+    "cached_value": 0.8955,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     8
+    ],
+    "cached_value": 0.8905,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     9
+    ],
+    "cached_value": 0.898,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     10
+    ],
+    "cached_value": 0.893,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     11
+    ],
+    "cached_value": 0.888,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     12
+    ],
+    "cached_value": 0.8955,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     13
+    ],
+    "cached_value": 0.8905,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     14
+    ],
+    "cached_value": 0.898,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     15
+    ],
+    "cached_value": 0.893,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     16
+    ],
+    "cached_value": 0.888,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     17
+    ],
+    "cached_value": 0.8955,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     18
+    ],
+    "cached_value": 0.8905,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     19
+    ],
+    "cached_value": 0.898,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     20
+    ],
+    "cached_value": 0.893,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     21
+    ],
+    "cached_value": 0.888,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     22
+    ],
+    "cached_value": 0.8955,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     23
+    ],
+    "cached_value": 0.8905,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     24
+    ],
+    "cached_value": 0.898,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     25
+    ],
+    "cached_value": 0.893,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     26
+    ],
+    "cached_value": 0.888,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     27
+    ],
+    "cached_value": 0.8955,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     28
+    ],
+    "cached_value": 0.8905,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     29
+    ],
+    "cached_value": 0.898,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     30
+    ],
+    "cached_value": 0.893,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     31
+    ],
+    "cached_value": 0.888,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     32
+    ],
+    "cached_value": 0.8955,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     33
+    ],
+    "cached_value": 0.8905,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     34
+    ],
+    "cached_value": 0.898,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     35
+    ],
+    "cached_value": 0.893,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     36
+    ],
+    "cached_value": 0.888,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     37
+    ],
+    "cached_value": 0.8955,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     1
+    ],
+    "cached_value": 9,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     2
+    ],
+    "cached_value": 0.884,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     3
+    ],
+    "cached_value": 0.879,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     4
+    ],
+    "cached_value": 0.874,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     5
+    ],
+    "cached_value": 0.8815,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     6
+    ],
+    "cached_value": 0.8765,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     7
+    ],
+    "cached_value": 0.884,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     8
+    ],
+    "cached_value": 0.879,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     9
+    ],
+    "cached_value": 0.874,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     10
+    ],
+    "cached_value": 0.8815,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     11
+    ],
+    "cached_value": 0.8765,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     12
+    ],
+    "cached_value": 0.884,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     13
+    ],
+    "cached_value": 0.879,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     14
+    ],
+    "cached_value": 0.874,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     15
+    ],
+    "cached_value": 0.8815,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     16
+    ],
+    "cached_value": 0.8765,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     17
+    ],
+    "cached_value": 0.884,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     18
+    ],
+    "cached_value": 0.879,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     19
+    ],
+    "cached_value": 0.874,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     20
+    ],
+    "cached_value": 0.8815,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     21
+    ],
+    "cached_value": 0.8765,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     22
+    ],
+    "cached_value": 0.884,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     23
+    ],
+    "cached_value": 0.879,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     24
+    ],
+    "cached_value": 0.874,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     25
+    ],
+    "cached_value": 0.8815,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     26
+    ],
+    "cached_value": 0.8765,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     27
+    ],
+    "cached_value": 0.884,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     28
+    ],
+    "cached_value": 0.879,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     29
+    ],
+    "cached_value": 0.874,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     30
+    ],
+    "cached_value": 0.8815,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     31
+    ],
+    "cached_value": 0.8765,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     32
+    ],
+    "cached_value": 0.884,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     33
+    ],
+    "cached_value": 0.879,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     34
+    ],
+    "cached_value": 0.874,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     35
+    ],
+    "cached_value": 0.8815,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     36
+    ],
+    "cached_value": 0.8765,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     37
+    ],
+    "cached_value": 0.884,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     1
+    ],
+    "cached_value": 10,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     2
+    ],
+    "cached_value": 0.86,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     3
+    ],
+    "cached_value": 0.8675,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     4
+    ],
+    "cached_value": 0.8625,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     5
+    ],
+    "cached_value": 0.87,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     6
+    ],
+    "cached_value": 0.865,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     7
+    ],
+    "cached_value": 0.86,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     8
+    ],
+    "cached_value": 0.8675,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     9
+    ],
+    "cached_value": 0.8625,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     10
+    ],
+    "cached_value": 0.87,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     11
+    ],
+    "cached_value": 0.865,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     12
+    ],
+    "cached_value": 0.86,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     13
+    ],
+    "cached_value": 0.8675,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     14
+    ],
+    "cached_value": 0.8625,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     15
+    ],
+    "cached_value": 0.87,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     16
+    ],
+    "cached_value": 0.865,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     17
+    ],
+    "cached_value": 0.86,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     18
+    ],
+    "cached_value": 0.8675,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     19
+    ],
+    "cached_value": 0.8625,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     20
+    ],
+    "cached_value": 0.87,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     21
+    ],
+    "cached_value": 0.865,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     22
+    ],
+    "cached_value": 0.86,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     23
+    ],
+    "cached_value": 0.8675,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     24
+    ],
+    "cached_value": 0.8625,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     25
+    ],
+    "cached_value": 0.87,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     26
+    ],
+    "cached_value": 0.865,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     27
+    ],
+    "cached_value": 0.86,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     28
+    ],
+    "cached_value": 0.8675,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     29
+    ],
+    "cached_value": 0.8625,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     30
+    ],
+    "cached_value": 0.87,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     31
+    ],
+    "cached_value": 0.865,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     32
+    ],
+    "cached_value": 0.86,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     33
+    ],
+    "cached_value": 0.8675,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     34
+    ],
+    "cached_value": 0.8625,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     35
+    ],
+    "cached_value": 0.87,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     36
+    ],
+    "cached_value": 0.865,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     37
+    ],
+    "cached_value": 0.86,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     1
+    ],
+    "cached_value": 11,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     2
+    ],
+    "cached_value": 0.8485,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     3
+    ],
+    "cached_value": 0.856,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     4
+    ],
+    "cached_value": 0.851,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     5
+    ],
+    "cached_value": 0.846,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     6
+    ],
+    "cached_value": 0.8535,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     7
+    ],
+    "cached_value": 0.8485,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     8
+    ],
+    "cached_value": 0.856,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     9
+    ],
+    "cached_value": 0.851,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     10
+    ],
+    "cached_value": 0.846,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     11
+    ],
+    "cached_value": 0.8535,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     12
+    ],
+    "cached_value": 0.8485,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     13
+    ],
+    "cached_value": 0.856,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     14
+    ],
+    "cached_value": 0.851,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     15
+    ],
+    "cached_value": 0.846,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     16
+    ],
+    "cached_value": 0.8535,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     17
+    ],
+    "cached_value": 0.8485,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     18
+    ],
+    "cached_value": 0.856,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     19
+    ],
+    "cached_value": 0.851,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     20
+    ],
+    "cached_value": 0.846,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     21
+    ],
+    "cached_value": 0.8535,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     22
+    ],
+    "cached_value": 0.8485,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     23
+    ],
+    "cached_value": 0.856,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     24
+    ],
+    "cached_value": 0.851,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     25
+    ],
+    "cached_value": 0.846,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     26
+    ],
+    "cached_value": 0.8535,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     27
+    ],
+    "cached_value": 0.8485,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     28
+    ],
+    "cached_value": 0.856,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     29
+    ],
+    "cached_value": 0.851,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     30
+    ],
+    "cached_value": 0.846,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     31
+    ],
+    "cached_value": 0.8535,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     32
+    ],
+    "cached_value": 0.8485,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     33
+    ],
+    "cached_value": 0.856,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     34
+    ],
+    "cached_value": 0.851,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     35
+    ],
+    "cached_value": 0.846,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     36
+    ],
+    "cached_value": 0.8535,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     37
+    ],
+    "cached_value": 0.8485,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     1
+    ],
+    "cached_value": 12,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     2
+    ],
+    "cached_value": 0.837,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     3
+    ],
+    "cached_value": 0.832,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     4
+    ],
+    "cached_value": 0.8395,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     5
+    ],
+    "cached_value": 0.8345,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     6
+    ],
+    "cached_value": 0.842,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     7
+    ],
+    "cached_value": 0.837,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     8
+    ],
+    "cached_value": 0.832,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     9
+    ],
+    "cached_value": 0.8395,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     10
+    ],
+    "cached_value": 0.8345,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     11
+    ],
+    "cached_value": 0.842,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     12
+    ],
+    "cached_value": 0.837,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     13
+    ],
+    "cached_value": 0.832,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     14
+    ],
+    "cached_value": 0.8395,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     15
+    ],
+    "cached_value": 0.8345,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     16
+    ],
+    "cached_value": 0.842,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     17
+    ],
+    "cached_value": 0.837,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     18
+    ],
+    "cached_value": 0.832,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     19
+    ],
+    "cached_value": 0.8395,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     20
+    ],
+    "cached_value": 0.8345,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     21
+    ],
+    "cached_value": 0.842,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     22
+    ],
+    "cached_value": 0.837,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     23
+    ],
+    "cached_value": 0.832,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     24
+    ],
+    "cached_value": 0.8395,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     25
+    ],
+    "cached_value": 0.8345,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     26
+    ],
+    "cached_value": 0.842,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     27
+    ],
+    "cached_value": 0.837,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     28
+    ],
+    "cached_value": 0.832,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     29
+    ],
+    "cached_value": 0.8395,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     30
+    ],
+    "cached_value": 0.8345,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     31
+    ],
+    "cached_value": 0.842,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     32
+    ],
+    "cached_value": 0.837,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     33
+    ],
+    "cached_value": 0.832,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     34
+    ],
+    "cached_value": 0.8395,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     35
+    ],
+    "cached_value": 0.8345,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     36
+    ],
+    "cached_value": 0.842,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     37
+    ],
+    "cached_value": 0.837,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     1
+    ],
+    "cached_value": 13,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     2
+    ],
+    "cached_value": 0.8255,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     3
+    ],
+    "cached_value": 0.8205,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     4
+    ],
+    "cached_value": 0.828,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     5
+    ],
+    "cached_value": 0.823,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     6
+    ],
+    "cached_value": 0.818,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     7
+    ],
+    "cached_value": 0.8255,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     8
+    ],
+    "cached_value": 0.8205,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     9
+    ],
+    "cached_value": 0.828,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     10
+    ],
+    "cached_value": 0.823,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     11
+    ],
+    "cached_value": 0.818,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     12
+    ],
+    "cached_value": 0.8255,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     13
+    ],
+    "cached_value": 0.8205,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     14
+    ],
+    "cached_value": 0.828,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     15
+    ],
+    "cached_value": 0.823,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     16
+    ],
+    "cached_value": 0.818,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     17
+    ],
+    "cached_value": 0.8255,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     18
+    ],
+    "cached_value": 0.8205,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     19
+    ],
+    "cached_value": 0.828,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     20
+    ],
+    "cached_value": 0.823,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     21
+    ],
+    "cached_value": 0.818,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     22
+    ],
+    "cached_value": 0.8255,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     23
+    ],
+    "cached_value": 0.8205,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     24
+    ],
+    "cached_value": 0.828,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     25
+    ],
+    "cached_value": 0.823,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     26
+    ],
+    "cached_value": 0.818,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     27
+    ],
+    "cached_value": 0.8255,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     28
+    ],
+    "cached_value": 0.8205,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     29
+    ],
+    "cached_value": 0.828,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     30
+    ],
+    "cached_value": 0.823,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     31
+    ],
+    "cached_value": 0.818,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     32
+    ],
+    "cached_value": 0.8255,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     33
+    ],
+    "cached_value": 0.8205,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     34
+    ],
+    "cached_value": 0.828,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     35
+    ],
+    "cached_value": 0.823,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     36
+    ],
+    "cached_value": 0.818,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     18,
+     37
+    ],
+    "cached_value": 0.8255,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     1
+    ],
+    "cached_value": 14,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     2
+    ],
+    "cached_value": 0.814,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     3
+    ],
+    "cached_value": 0.809,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     4
+    ],
+    "cached_value": 0.804,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     5
+    ],
+    "cached_value": 0.8115,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     6
+    ],
+    "cached_value": 0.8065,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     7
+    ],
+    "cached_value": 0.814,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     8
+    ],
+    "cached_value": 0.809,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     9
+    ],
+    "cached_value": 0.804,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     10
+    ],
+    "cached_value": 0.8115,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     11
+    ],
+    "cached_value": 0.8065,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     12
+    ],
+    "cached_value": 0.814,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     13
+    ],
+    "cached_value": 0.809,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     14
+    ],
+    "cached_value": 0.804,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     15
+    ],
+    "cached_value": 0.8115,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     16
+    ],
+    "cached_value": 0.8065,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     17
+    ],
+    "cached_value": 0.814,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     18
+    ],
+    "cached_value": 0.809,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     19
+    ],
+    "cached_value": 0.804,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     20
+    ],
+    "cached_value": 0.8115,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     21
+    ],
+    "cached_value": 0.8065,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     22
+    ],
+    "cached_value": 0.814,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     23
+    ],
+    "cached_value": 0.809,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     24
+    ],
+    "cached_value": 0.804,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     25
+    ],
+    "cached_value": 0.8115,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     26
+    ],
+    "cached_value": 0.8065,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     27
+    ],
+    "cached_value": 0.814,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     28
+    ],
+    "cached_value": 0.809,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     29
+    ],
+    "cached_value": 0.804,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     30
+    ],
+    "cached_value": 0.8115,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     31
+    ],
+    "cached_value": 0.8065,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     32
+    ],
+    "cached_value": 0.814,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     33
+    ],
+    "cached_value": 0.809,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     34
+    ],
+    "cached_value": 0.804,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     35
+    ],
+    "cached_value": 0.8115,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     36
+    ],
+    "cached_value": 0.8065,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     19,
+     37
+    ],
+    "cached_value": 0.814,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     1
+    ],
+    "cached_value": 15,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     2
+    ],
+    "cached_value": 0.79,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     3
+    ],
+    "cached_value": 0.7975,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     4
+    ],
+    "cached_value": 0.7925,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     5
+    ],
+    "cached_value": 0.8,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     6
+    ],
+    "cached_value": 0.795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     7
+    ],
+    "cached_value": 0.79,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     8
+    ],
+    "cached_value": 0.7975,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     9
+    ],
+    "cached_value": 0.7925,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     10
+    ],
+    "cached_value": 0.8,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     11
+    ],
+    "cached_value": 0.795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     12
+    ],
+    "cached_value": 0.79,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     13
+    ],
+    "cached_value": 0.7975,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     14
+    ],
+    "cached_value": 0.7925,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     15
+    ],
+    "cached_value": 0.8,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     16
+    ],
+    "cached_value": 0.795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     17
+    ],
+    "cached_value": 0.79,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     18
+    ],
+    "cached_value": 0.7975,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     19
+    ],
+    "cached_value": 0.7925,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     20
+    ],
+    "cached_value": 0.8,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     21
+    ],
+    "cached_value": 0.795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     22
+    ],
+    "cached_value": 0.79,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     23
+    ],
+    "cached_value": 0.7975,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     24
+    ],
+    "cached_value": 0.7925,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     25
+    ],
+    "cached_value": 0.8,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     26
+    ],
+    "cached_value": 0.795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     27
+    ],
+    "cached_value": 0.79,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     28
+    ],
+    "cached_value": 0.7975,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     29
+    ],
+    "cached_value": 0.7925,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     30
+    ],
+    "cached_value": 0.8,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     31
+    ],
+    "cached_value": 0.795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     32
+    ],
+    "cached_value": 0.79,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     33
+    ],
+    "cached_value": 0.7975,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     34
+    ],
+    "cached_value": 0.7925,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     35
+    ],
+    "cached_value": 0.8,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     36
+    ],
+    "cached_value": 0.795,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     20,
+     37
+    ],
+    "cached_value": 0.79,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     1
+    ],
+    "cached_value": 16,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     2
+    ],
+    "cached_value": 0.7785,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     3
+    ],
+    "cached_value": 0.786,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     4
+    ],
+    "cached_value": 0.781,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     5
+    ],
+    "cached_value": 0.776,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     6
+    ],
+    "cached_value": 0.7835,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     7
+    ],
+    "cached_value": 0.7785,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     8
+    ],
+    "cached_value": 0.786,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     9
+    ],
+    "cached_value": 0.781,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     10
+    ],
+    "cached_value": 0.776,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     11
+    ],
+    "cached_value": 0.7835,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     12
+    ],
+    "cached_value": 0.7785,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     13
+    ],
+    "cached_value": 0.786,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     14
+    ],
+    "cached_value": 0.781,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     15
+    ],
+    "cached_value": 0.776,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     16
+    ],
+    "cached_value": 0.7835,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     17
+    ],
+    "cached_value": 0.7785,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     18
+    ],
+    "cached_value": 0.786,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     19
+    ],
+    "cached_value": 0.781,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     20
+    ],
+    "cached_value": 0.776,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     21
+    ],
+    "cached_value": 0.7835,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     22
+    ],
+    "cached_value": 0.7785,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     23
+    ],
+    "cached_value": 0.786,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     24
+    ],
+    "cached_value": 0.781,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     25
+    ],
+    "cached_value": 0.776,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     26
+    ],
+    "cached_value": 0.7835,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     27
+    ],
+    "cached_value": 0.7785,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     28
+    ],
+    "cached_value": 0.786,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     29
+    ],
+    "cached_value": 0.781,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     30
+    ],
+    "cached_value": 0.776,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     31
+    ],
+    "cached_value": 0.7835,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     32
+    ],
+    "cached_value": 0.7785,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     33
+    ],
+    "cached_value": 0.786,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     34
+    ],
+    "cached_value": 0.781,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     35
+    ],
+    "cached_value": 0.776,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     36
+    ],
+    "cached_value": 0.7835,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     21,
+     37
+    ],
+    "cached_value": 0.7785,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     1
+    ],
+    "cached_value": 17,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     2
+    ],
+    "cached_value": 0.767,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     3
+    ],
+    "cached_value": 0.762,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     4
+    ],
+    "cached_value": 0.7695,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     5
+    ],
+    "cached_value": 0.7645,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     6
+    ],
+    "cached_value": 0.772,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     7
+    ],
+    "cached_value": 0.767,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     8
+    ],
+    "cached_value": 0.762,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     9
+    ],
+    "cached_value": 0.7695,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     10
+    ],
+    "cached_value": 0.7645,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     11
+    ],
+    "cached_value": 0.772,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     12
+    ],
+    "cached_value": 0.767,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     13
+    ],
+    "cached_value": 0.762,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     14
+    ],
+    "cached_value": 0.7695,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     15
+    ],
+    "cached_value": 0.7645,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     16
+    ],
+    "cached_value": 0.772,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     17
+    ],
+    "cached_value": 0.767,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     18
+    ],
+    "cached_value": 0.762,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     19
+    ],
+    "cached_value": 0.7695,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     20
+    ],
+    "cached_value": 0.7645,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     21
+    ],
+    "cached_value": 0.772,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     22
+    ],
+    "cached_value": 0.767,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     23
+    ],
+    "cached_value": 0.762,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     24
+    ],
+    "cached_value": 0.7695,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     25
+    ],
+    "cached_value": 0.7645,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     26
+    ],
+    "cached_value": 0.772,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     27
+    ],
+    "cached_value": 0.767,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     28
+    ],
+    "cached_value": 0.762,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     29
+    ],
+    "cached_value": 0.7695,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     30
+    ],
+    "cached_value": 0.7645,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     31
+    ],
+    "cached_value": 0.772,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     32
+    ],
+    "cached_value": 0.767,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     33
+    ],
+    "cached_value": 0.762,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     34
+    ],
+    "cached_value": 0.7695,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     35
+    ],
+    "cached_value": 0.7645,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     36
+    ],
+    "cached_value": 0.772,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     22,
+     37
+    ],
+    "cached_value": 0.767,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     1
+    ],
+    "cached_value": 18,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     2
+    ],
+    "cached_value": 0.7555,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     3
+    ],
+    "cached_value": 0.7505,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     4
+    ],
+    "cached_value": 0.758,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     5
+    ],
+    "cached_value": 0.753,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     6
+    ],
+    "cached_value": 0.748,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     7
+    ],
+    "cached_value": 0.7555,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     8
+    ],
+    "cached_value": 0.7505,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     9
+    ],
+    "cached_value": 0.758,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     10
+    ],
+    "cached_value": 0.753,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     11
+    ],
+    "cached_value": 0.748,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     12
+    ],
+    "cached_value": 0.7555,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     13
+    ],
+    "cached_value": 0.7505,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     14
+    ],
+    "cached_value": 0.758,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     15
+    ],
+    "cached_value": 0.753,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     16
+    ],
+    "cached_value": 0.748,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     17
+    ],
+    "cached_value": 0.7555,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     18
+    ],
+    "cached_value": 0.7505,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     19
+    ],
+    "cached_value": 0.758,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     20
+    ],
+    "cached_value": 0.753,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     21
+    ],
+    "cached_value": 0.748,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     22
+    ],
+    "cached_value": 0.7555,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     23
+    ],
+    "cached_value": 0.7505,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     24
+    ],
+    "cached_value": 0.758,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     25
+    ],
+    "cached_value": 0.753,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     26
+    ],
+    "cached_value": 0.748,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     27
+    ],
+    "cached_value": 0.7555,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     28
+    ],
+    "cached_value": 0.7505,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     29
+    ],
+    "cached_value": 0.758,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     30
+    ],
+    "cached_value": 0.753,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     31
+    ],
+    "cached_value": 0.748,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     32
+    ],
+    "cached_value": 0.7555,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     33
+    ],
+    "cached_value": 0.7505,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     34
+    ],
+    "cached_value": 0.758,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     35
+    ],
+    "cached_value": 0.753,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     36
+    ],
+    "cached_value": 0.748,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     23,
+     37
+    ],
+    "cached_value": 0.7555,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     1
+    ],
+    "cached_value": 19,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     2
+    ],
+    "cached_value": 0.744,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     3
+    ],
+    "cached_value": 0.739,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     4
+    ],
+    "cached_value": 0.734,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     5
+    ],
+    "cached_value": 0.7415,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     6
+    ],
+    "cached_value": 0.7365,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     7
+    ],
+    "cached_value": 0.744,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     8
+    ],
+    "cached_value": 0.739,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     9
+    ],
+    "cached_value": 0.734,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     10
+    ],
+    "cached_value": 0.7415,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     11
+    ],
+    "cached_value": 0.7365,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     12
+    ],
+    "cached_value": 0.744,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     13
+    ],
+    "cached_value": 0.739,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     14
+    ],
+    "cached_value": 0.734,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     15
+    ],
+    "cached_value": 0.7415,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     16
+    ],
+    "cached_value": 0.7365,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     17
+    ],
+    "cached_value": 0.744,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     18
+    ],
+    "cached_value": 0.739,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     19
+    ],
+    "cached_value": 0.734,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     20
+    ],
+    "cached_value": 0.7415,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     21
+    ],
+    "cached_value": 0.7365,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     22
+    ],
+    "cached_value": 0.744,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     23
+    ],
+    "cached_value": 0.739,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     24
+    ],
+    "cached_value": 0.734,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     25
+    ],
+    "cached_value": 0.7415,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     26
+    ],
+    "cached_value": 0.7365,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     27
+    ],
+    "cached_value": 0.744,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     28
+    ],
+    "cached_value": 0.739,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     29
+    ],
+    "cached_value": 0.734,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     30
+    ],
+    "cached_value": 0.7415,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     31
+    ],
+    "cached_value": 0.7365,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     32
+    ],
+    "cached_value": 0.744,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     33
+    ],
+    "cached_value": 0.739,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     34
+    ],
+    "cached_value": 0.734,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     35
+    ],
+    "cached_value": 0.7415,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     36
+    ],
+    "cached_value": 0.7365,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     24,
+     37
+    ],
+    "cached_value": 0.744,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     1
+    ],
+    "cached_value": 20,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     2
+    ],
+    "cached_value": 0.72,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     3
+    ],
+    "cached_value": 0.7275,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     4
+    ],
+    "cached_value": 0.7225,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     5
+    ],
+    "cached_value": 0.73,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     6
+    ],
+    "cached_value": 0.725,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     7
+    ],
+    "cached_value": 0.72,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     8
+    ],
+    "cached_value": 0.7275,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     9
+    ],
+    "cached_value": 0.7225,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     10
+    ],
+    "cached_value": 0.73,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     11
+    ],
+    "cached_value": 0.725,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     12
+    ],
+    "cached_value": 0.72,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     13
+    ],
+    "cached_value": 0.7275,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     14
+    ],
+    "cached_value": 0.7225,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     15
+    ],
+    "cached_value": 0.73,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     16
+    ],
+    "cached_value": 0.725,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     17
+    ],
+    "cached_value": 0.72,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     18
+    ],
+    "cached_value": 0.7275,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     19
+    ],
+    "cached_value": 0.7225,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     20
+    ],
+    "cached_value": 0.73,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     21
+    ],
+    "cached_value": 0.725,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     22
+    ],
+    "cached_value": 0.72,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     23
+    ],
+    "cached_value": 0.7275,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     24
+    ],
+    "cached_value": 0.7225,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     25
+    ],
+    "cached_value": 0.73,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     26
+    ],
+    "cached_value": 0.725,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     27
+    ],
+    "cached_value": 0.72,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     28
+    ],
+    "cached_value": 0.7275,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     29
+    ],
+    "cached_value": 0.7225,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     30
+    ],
+    "cached_value": 0.73,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     31
+    ],
+    "cached_value": 0.725,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     32
+    ],
+    "cached_value": 0.72,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     33
+    ],
+    "cached_value": 0.7275,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     34
+    ],
+    "cached_value": 0.7225,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     35
+    ],
+    "cached_value": 0.73,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     36
+    ],
+    "cached_value": 0.725,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     25,
+     37
+    ],
+    "cached_value": 0.72,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     1
+    ],
+    "cached_value": 21,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     2
+    ],
+    "cached_value": 0.7085,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     3
+    ],
+    "cached_value": 0.716,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     4
+    ],
+    "cached_value": 0.711,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     5
+    ],
+    "cached_value": 0.706,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     6
+    ],
+    "cached_value": 0.7135,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     7
+    ],
+    "cached_value": 0.7085,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     8
+    ],
+    "cached_value": 0.716,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     9
+    ],
+    "cached_value": 0.711,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     10
+    ],
+    "cached_value": 0.706,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     11
+    ],
+    "cached_value": 0.7135,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     12
+    ],
+    "cached_value": 0.7085,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     13
+    ],
+    "cached_value": 0.716,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     14
+    ],
+    "cached_value": 0.711,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     15
+    ],
+    "cached_value": 0.706,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     16
+    ],
+    "cached_value": 0.7135,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     17
+    ],
+    "cached_value": 0.7085,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     18
+    ],
+    "cached_value": 0.716,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     19
+    ],
+    "cached_value": 0.711,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     20
+    ],
+    "cached_value": 0.706,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     21
+    ],
+    "cached_value": 0.7135,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     22
+    ],
+    "cached_value": 0.7085,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     23
+    ],
+    "cached_value": 0.716,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     24
+    ],
+    "cached_value": 0.711,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     25
+    ],
+    "cached_value": 0.706,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     26
+    ],
+    "cached_value": 0.7135,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     27
+    ],
+    "cached_value": 0.7085,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     28
+    ],
+    "cached_value": 0.716,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     29
+    ],
+    "cached_value": 0.711,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     30
+    ],
+    "cached_value": 0.706,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     31
+    ],
+    "cached_value": 0.7135,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     32
+    ],
+    "cached_value": 0.7085,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     33
+    ],
+    "cached_value": 0.716,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     34
+    ],
+    "cached_value": 0.711,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     35
+    ],
+    "cached_value": 0.706,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     36
+    ],
+    "cached_value": 0.7135,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     26,
+     37
+    ],
+    "cached_value": 0.7085,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     1
+    ],
+    "cached_value": 22,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     2
+    ],
+    "cached_value": 0.697,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     3
+    ],
+    "cached_value": 0.692,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     4
+    ],
+    "cached_value": 0.6995,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     5
+    ],
+    "cached_value": 0.6945,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     6
+    ],
+    "cached_value": 0.702,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     7
+    ],
+    "cached_value": 0.697,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     8
+    ],
+    "cached_value": 0.692,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     9
+    ],
+    "cached_value": 0.6995,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     10
+    ],
+    "cached_value": 0.6945,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     11
+    ],
+    "cached_value": 0.702,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     12
+    ],
+    "cached_value": 0.697,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     13
+    ],
+    "cached_value": 0.692,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     14
+    ],
+    "cached_value": 0.6995,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     15
+    ],
+    "cached_value": 0.6945,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     16
+    ],
+    "cached_value": 0.702,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     17
+    ],
+    "cached_value": 0.697,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     18
+    ],
+    "cached_value": 0.692,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     19
+    ],
+    "cached_value": 0.6995,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     20
+    ],
+    "cached_value": 0.6945,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     21
+    ],
+    "cached_value": 0.702,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     22
+    ],
+    "cached_value": 0.697,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     23
+    ],
+    "cached_value": 0.692,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     24
+    ],
+    "cached_value": 0.6995,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     25
+    ],
+    "cached_value": 0.6945,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     26
+    ],
+    "cached_value": 0.702,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     27
+    ],
+    "cached_value": 0.697,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     28
+    ],
+    "cached_value": 0.692,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     29
+    ],
+    "cached_value": 0.6995,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     30
+    ],
+    "cached_value": 0.6945,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     31
+    ],
+    "cached_value": 0.702,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     32
+    ],
+    "cached_value": 0.697,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     33
+    ],
+    "cached_value": 0.692,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     34
+    ],
+    "cached_value": 0.6995,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     35
+    ],
+    "cached_value": 0.6945,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     36
+    ],
+    "cached_value": 0.702,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     27,
+     37
+    ],
+    "cached_value": 0.697,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     1
+    ],
+    "cached_value": 23,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     2
+    ],
+    "cached_value": 0.6855,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     3
+    ],
+    "cached_value": 0.6805,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     4
+    ],
+    "cached_value": 0.688,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     5
+    ],
+    "cached_value": 0.683,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     6
+    ],
+    "cached_value": 0.678,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     7
+    ],
+    "cached_value": 0.6855,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     8
+    ],
+    "cached_value": 0.6805,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     9
+    ],
+    "cached_value": 0.688,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     10
+    ],
+    "cached_value": 0.683,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     11
+    ],
+    "cached_value": 0.678,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     12
+    ],
+    "cached_value": 0.6855,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     13
+    ],
+    "cached_value": 0.6805,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     14
+    ],
+    "cached_value": 0.688,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     15
+    ],
+    "cached_value": 0.683,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     16
+    ],
+    "cached_value": 0.678,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     17
+    ],
+    "cached_value": 0.6855,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     18
+    ],
+    "cached_value": 0.6805,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     19
+    ],
+    "cached_value": 0.688,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     20
+    ],
+    "cached_value": 0.683,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     21
+    ],
+    "cached_value": 0.678,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     22
+    ],
+    "cached_value": 0.6855,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     23
+    ],
+    "cached_value": 0.6805,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     24
+    ],
+    "cached_value": 0.688,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     25
+    ],
+    "cached_value": 0.683,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     26
+    ],
+    "cached_value": 0.678,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     27
+    ],
+    "cached_value": 0.6855,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     28
+    ],
+    "cached_value": 0.6805,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     29
+    ],
+    "cached_value": 0.688,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     30
+    ],
+    "cached_value": 0.683,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     31
+    ],
+    "cached_value": 0.678,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     32
+    ],
+    "cached_value": 0.6855,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     33
+    ],
+    "cached_value": 0.6805,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     34
+    ],
+    "cached_value": 0.688,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     35
+    ],
+    "cached_value": 0.683,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     36
+    ],
+    "cached_value": 0.678,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     28,
+     37
+    ],
+    "cached_value": 0.6855,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "percentage"
+    ]
+   },
+   {
+    "coordinate": [
+     31,
+     1
+    ],
+    "cached_value": "Retention is measured on net revenue, not logo count.",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   }
+  ]
+ }
+}

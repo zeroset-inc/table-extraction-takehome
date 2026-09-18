@@ -1,0 +1,46 @@
+{
+ "window": {
+  "start": {
+   "row": 1,
+   "column": 1
+  },
+  "end_exclusive": {
+   "row": 32,
+   "column": 38
+  }
+ },
+ "occupied_ranges": [
+  {
+   "start": {
+    "row": 1,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 2,
+    "column": 2
+   }
+  },
+  {
+   "start": {
+    "row": 4,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 29,
+    "column": 38
+   }
+  },
+  {
+   "start": {
+    "row": 31,
+    "column": 1
+   },
+   "end_exclusive": {
+    "row": 32,
+    "column": 2
+   }
+  }
+ ],
+ "merged_ranges": [],
+ "explicit_table_ranges": []
+}

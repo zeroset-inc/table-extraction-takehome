@@ -1,0 +1,310 @@
+{
+ "contract": "table.packet.v1",
+ "packet_id": "sparse_record_labels",
+ "target_bounds": [
+  0,
+  1,
+  13,
+  4
+ ],
+ "source": {
+  "bounds": [
+   0,
+   1,
+   13,
+   4
+  ],
+  "date_system": "1900",
+  "merges": [],
+  "cells": [
+   {
+    "coordinate": [
+     0,
+     1
+    ],
+    "cached_value": "Service reconciliation register",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     1
+    ],
+    "cached_value": "Every listed account is a record; blank Charge and Verified entries are unavailable.",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     1
+    ],
+    "cached_value": "Facility",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     2
+    ],
+    "cached_value": "Charge",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     3
+    ],
+    "cached_value": "Verified",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     1
+    ],
+    "cached_value": "Aster",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     2
+    ],
+    "cached_value": 17,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     3
+    ],
+    "cached_value": false,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     1
+    ],
+    "cached_value": "Juniper",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     2
+    ],
+    "cached_value": 30,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     3
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     1
+    ],
+    "cached_value": "Larch",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     1
+    ],
+    "cached_value": "Maple",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     2
+    ],
+    "cached_value": 56,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     3
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     1
+    ],
+    "cached_value": "Willow",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     2
+    ],
+    "cached_value": 69,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     3
+    ],
+    "cached_value": false,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     12,
+     1
+    ],
+    "cached_value": "Charges exclude emergency callouts.",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   }
+  ]
+ },
+ "family": "sparse_record",
+ "transformation": "labels",
+ "split": "transformed"
+}

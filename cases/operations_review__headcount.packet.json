@@ -1,0 +1,658 @@
+{
+ "contract": "table.packet.v1",
+ "packet_id": "operations_review__headcount",
+ "target_bounds": [
+  1,
+  1,
+  18,
+  6
+ ],
+ "workbook": "operations_review.xlsx",
+ "sheet": "Headcount",
+ "sheet_visibility": "visible",
+ "family": "operations_review",
+ "transformation": null,
+ "split": "workbook",
+ "source": {
+  "bounds": [
+   1,
+   1,
+   18,
+   6
+  ],
+  "date_system": "1900",
+  "merges": [],
+  "cells": [
+   {
+    "coordinate": [
+     1,
+     1
+    ],
+    "cached_value": "Headcount and open roles",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     2,
+     1
+    ],
+    "cached_value": "Field operations is between leads; its counts are unavailable this cycle.",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     1
+    ],
+    "cached_value": "Team",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     2
+    ],
+    "cached_value": "Lead",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     3
+    ],
+    "cached_value": "Headcount",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     4
+    ],
+    "cached_value": "Open roles",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     4,
+     5
+    ],
+    "cached_value": "Budgeted",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     1
+    ],
+    "cached_value": "Platform",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     2
+    ],
+    "cached_value": "A. Rivera",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     3
+    ],
+    "cached_value": 24,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     4
+    ],
+    "cached_value": 3,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     5,
+     5
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     1
+    ],
+    "cached_value": "Support",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     2
+    ],
+    "cached_value": "M. Chen",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     3
+    ],
+    "cached_value": 18,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     4
+    ],
+    "cached_value": 1,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     6,
+     5
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     1
+    ],
+    "cached_value": "Field operations",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     7,
+     5
+    ],
+    "cached_value": false,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     1
+    ],
+    "cached_value": "Data",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     2
+    ],
+    "cached_value": "K. Osei",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     3
+    ],
+    "cached_value": 11,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     4
+    ],
+    "cached_value": 2,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     8,
+     5
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     1
+    ],
+    "cached_value": "Enablement",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     2
+    ],
+    "cached_value": "R. Lindqvist",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     3
+    ],
+    "cached_value": 7,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     4
+    ],
+    "cached_value": 0,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     9,
+     5
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     13,
+     2
+    ],
+    "cached_value": "Contractor commitments",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     2
+    ],
+    "cached_value": "Vendor",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     3
+    ],
+    "cached_value": "Engagement",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     14,
+     4
+    ],
+    "cached_value": "Monthly cost",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     1,
+     2,
+     5,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     2
+    ],
+    "cached_value": "Halden Ltd",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     3
+    ],
+    "cached_value": "Tier 2 support",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     15,
+     4
+    ],
+    "cached_value": 41200,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "currency"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     2
+    ],
+    "cached_value": "Brightside",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     3
+    ],
+    "cached_value": "Data labelling",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     16,
+     4
+    ],
+    "cached_value": 18750,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "currency"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     2
+    ],
+    "cached_value": "Oreline",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     3
+    ],
+    "cached_value": "Security review",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     17,
+     4
+    ],
+    "cached_value": 9600,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "currency"
+    ]
+   }
+  ]
+ }
+}

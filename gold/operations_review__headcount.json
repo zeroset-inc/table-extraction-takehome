@@ -1,0 +1,91 @@
+{
+ "contract": "table.annotation.v1",
+ "packet_id": "operations_review__headcount",
+ "reviewer_id": "gold",
+ "completion": "complete",
+ "human_name": "authored gold",
+ "independent_review": true,
+ "prior_access_to_model_answers_or_gold": true,
+ "evidence_sufficient": true,
+ "tables": [
+  {
+   "table_id": "T1",
+   "source_range": "B5:F10",
+   "record_axis": "rows",
+   "primary_header_ranges": [
+    "B5:F5"
+   ],
+   "record_ranges": [
+    "B6:F10"
+   ],
+   "repeated_header_ranges": [],
+   "reason": "Authored layout: header levels and record bands as generated."
+  },
+  {
+   "table_id": "T2",
+   "source_range": "C15:E18",
+   "record_axis": "rows",
+   "primary_header_ranges": [
+    "C15:E15"
+   ],
+   "record_ranges": [
+    "C16:E18"
+   ],
+   "repeated_header_ranges": [],
+   "reason": "Authored layout: header levels and record bands as generated."
+  }
+ ],
+ "non_record_ranges": [
+  {
+   "source_range": "B3",
+   "role": "note",
+   "reason": "Retained statement; not a header or record."
+  },
+  {
+   "source_range": "C14",
+   "role": "title",
+   "reason": "Retained statement; not a header or record."
+  },
+  {
+   "source_range": "B2",
+   "role": "other",
+   "reason": "Populated cell outside every table and statement."
+  }
+ ],
+ "context_statements": [
+  {
+   "evidence_cell": "B3",
+   "exact_excerpt": "Field operations is between leads; its counts are unavailable this cycle.",
+   "occurrence_index": 0,
+   "retaining_tables": [
+    "T1"
+   ],
+   "role": "explanation",
+   "applicability": {
+    "state": "resolved",
+    "scope": "records",
+    "source_ranges": [
+     "B8:F8"
+    ]
+   },
+   "reason": "Authored applicability for this statement."
+  },
+  {
+   "evidence_cell": "C14",
+   "exact_excerpt": "Contractor commitments",
+   "occurrence_index": 0,
+   "retaining_tables": [
+    "T2"
+   ],
+   "role": "title",
+   "applicability": {
+    "state": "resolved",
+    "scope": "table",
+    "source_ranges": []
+   },
+   "reason": "Authored applicability for this statement."
+  }
+ ],
+ "uncertainties": [],
+ "reasoning": "Generated from the authored fixture definition."
+}

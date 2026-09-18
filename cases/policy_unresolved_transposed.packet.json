@@ -1,0 +1,340 @@
+{
+ "contract": "table.packet.v1",
+ "packet_id": "policy_unresolved_transposed",
+ "target_bounds": [
+  1,
+  0,
+  4,
+  13
+ ],
+ "source": {
+  "bounds": [
+   1,
+   0,
+   4,
+   13
+  ],
+  "date_system": "1900",
+  "merges": [],
+  "cells": [
+   {
+    "coordinate": [
+     1,
+     0
+    ],
+    "cached_value": "Service credit register",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     1
+    ],
+    "cached_value": "Period: January 2025",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     4
+    ],
+    "cached_value": "Account",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     5
+    ],
+    "cached_value": "Birch",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     6
+    ],
+    "cached_value": "Elm",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     7
+    ],
+    "cached_value": "Pine",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     8
+    ],
+    "cached_value": "Oak",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     9
+    ],
+    "cached_value": "Cedar",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     1,
+     12
+    ],
+    "cached_value": "Adjustment note for this register: the source does not specify which fields or records it affects.",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     2,
+     4
+    ],
+    "cached_value": "Amount",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     2,
+     5
+    ],
+    "cached_value": 17,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     2,
+     6
+    ],
+    "cached_value": 30,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     2,
+     7
+    ],
+    "cached_value": 43,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     2,
+     8
+    ],
+    "cached_value": 56,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     2,
+     9
+    ],
+    "cached_value": 69,
+    "kind": "numeric",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     4
+    ],
+    "cached_value": "Active",
+    "kind": "text",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     5
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     6
+    ],
+    "cached_value": false,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     7
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     8
+    ],
+    "cached_value": false,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   },
+   {
+    "coordinate": [
+     3,
+     9
+    ],
+    "cached_value": true,
+    "kind": "boolean",
+    "formula_cache": null,
+    "style": [
+     0,
+     0,
+     0,
+     "general"
+    ]
+   }
+  ]
+ },
+ "family": "policy_unresolved_transposed",
+ "transformation": null,
+ "split": "format_guard"
+}

@@ -1,0 +1,153 @@
+{
+ "contract": "table.layout-proposal.v1",
+ "selections": [
+  {
+   "region_id": "t0",
+   "orientation": "records_by_row",
+   "source_range": {
+    "start": {
+     "row": 5,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 28,
+     "column": 39
+    }
+   },
+   "header_bands": [
+    {
+     "start": 5,
+     "end_exclusive": 6
+    },
+    {
+     "start": 6,
+     "end_exclusive": 7
+    }
+   ],
+   "data_bands": [
+    {
+     "start": 8,
+     "end_exclusive": 12
+    },
+    {
+     "start": 14,
+     "end_exclusive": 18
+    },
+    {
+     "start": 20,
+     "end_exclusive": 26
+    },
+    {
+     "start": 27,
+     "end_exclusive": 28
+    }
+   ]
+  }
+ ],
+ "excluded_ranges": [
+  {
+   "source_range": {
+    "start": {
+     "row": 1,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 2,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  },
+  {
+   "source_range": {
+    "start": {
+     "row": 2,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 3,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  },
+  {
+   "source_range": {
+    "start": {
+     "row": 7,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 8,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  },
+  {
+   "source_range": {
+    "start": {
+     "row": 13,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 14,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  },
+  {
+   "source_range": {
+    "start": {
+     "row": 19,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 20,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  },
+  {
+   "source_range": {
+    "start": {
+     "row": 30,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 31,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  },
+  {
+   "source_range": {
+    "start": {
+     "row": 31,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 32,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  },
+  {
+   "source_range": {
+    "start": {
+     "row": 32,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 33,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  }
+ ]
+}

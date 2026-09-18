@@ -1,0 +1,76 @@
+{
+ "contract": "table.layout-proposal.v1",
+ "selections": [
+  {
+   "region_id": "t0",
+   "orientation": "records_by_row",
+   "source_range": {
+    "start": {
+     "row": 4,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 12,
+     "column": 4
+    }
+   },
+   "header_bands": [
+    {
+     "start": 4,
+     "end_exclusive": 5
+    }
+   ],
+   "data_bands": [
+    {
+     "start": 5,
+     "end_exclusive": 7
+    },
+    {
+     "start": 9,
+     "end_exclusive": 12
+    }
+   ]
+  }
+ ],
+ "excluded_ranges": [
+  {
+   "source_range": {
+    "start": {
+     "row": 0,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 1,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  },
+  {
+   "source_range": {
+    "start": {
+     "row": 1,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 2,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  },
+  {
+   "source_range": {
+    "start": {
+     "row": 14,
+     "column": 1
+    },
+    "end_exclusive": {
+     "row": 15,
+     "column": 2
+    }
+   },
+   "disposition": "non_table"
+  }
+ ]
+}
